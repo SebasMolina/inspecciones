@@ -1,31 +1,31 @@
 {
     "inspeccionesAprobadas":[
         {
-            "PreliquidacionNro": "12548975",
-            "Fecha": "4/10/21",
-            "Siniestro": "--------------",
-            "Poliza": "--------------",
-            "Asegurado": "--------------",
-            "ImporteTotal": "35248",
-            "Estado": "Pendiente"
+            "inspeccionNro": "12548975",
+            "fecha": "4/10/21",
+            "siniestro": "--------------",
+            "poliza": "--------------",
+            "asegurado": "--------------",
+            "importeTotal": "35248",
+            "estado": "Pendiente"
         },
         {
-            "PreliquidacionNro": "21212412",
-            "Fecha": "4/12/21",
-            "Siniestro": "--------------",
-            "Poliza": "--------------",
-            "Asegurado": "--------------",
-            "ImporteTotal": "55248",
-            "Estado": "Realizada"
+            "inspeccionNro": "21212412",
+            "fecha": "4/12/21",
+            "siniestro": "--------------",
+            "poliza": "--------------",
+            "asegurado": "--------------",
+            "importeTotal": "55248",
+            "estado": "Realizada"
         },
         {
-            "PreliquidacionNro": "52548975",
-            "Fecha": "4/10/21",
-            "Siniestro": "--------------",
-            "Poliza": "--------------",
-            "Asegurado": "--------------",
-            "ImporteTotal": "35248",
-            "Estado": "Pendiente"
+            "inspeccionNro": "52548975",
+            "fecha": "4/10/21",
+            "siniestro": "--------------",
+            "poliza": "--------------",
+            "asegurado": "--------------",
+            "importeTotal": "35248",
+            "estado": "Pendiente"
         }
         
     ],
